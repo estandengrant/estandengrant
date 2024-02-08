@@ -7,6 +7,7 @@ For reasons related to confidentiality and compliance/legal restrictions, I am u
 - KNN_Algorithm: K-Nearest Neighbour algorithm construction in Numpy and testing against Iris dataset.
 - Neural_Network_Utilities: Python modules containing functions and utilities to construct a Neural Network from scratch and perfom forward propagation.
 - Support_Vector_Machine_From_Scratch: Creation of Support Vector Machine (SVM) for classification. Tested against SKLearns SVM model
+- Natural_Language_Neural_Network_Model: Natural language processing and use of Deep Learning model to detect potentially alarming text messages relating to mental health problems.
   
 For any questions, please don't hesitate to contact me.
 
